@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import leaPortrait from "@/assets/lea-portrait.png";
+import leaPortrait from "@/assets/lea-croatia.jpg";
 
 const AboutSection = () => {
   return (
